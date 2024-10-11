@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/static/css/main.2c46df6b.css",
+    "main.js": "/static/js/main.5f004d42.js",
+    "static/media/help-desk.png": "/static/media/help-desk.3c2d51c19ce9da4f658c.png",
+    "index.html": "/index.html",
+    "main.2c46df6b.css.map": "/static/css/main.2c46df6b.css.map",
+    "main.5f004d42.js.map": "/static/js/main.5f004d42.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2c46df6b.css",
+    "static/js/main.5f004d42.js"
+  ]
+}
